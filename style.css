@@ -1,15 +1,16 @@
 body {
-  background-color: black;
+  background-color: rgb(168, 136, 181);
   text-align: center;
-  color: white;
+  color:white;
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  color:white;
   background-size: 400px;
   border-radius: 30px;
   border: 1px solid rgb(255,245,227);
+  background-image: url(https://cdn.glitch.global/286ee032-db3d-4dec-85ba-2f5ef62944b4/unnamed.jpg?v=1736443465009)
 }
 
 .main{
